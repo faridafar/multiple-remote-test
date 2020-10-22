@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@0,700;0,900;1,700;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    overflow-x: hidden;
+    font-size: 10px;
+}
+
+body {
+    font-size: 1.6rem;
+    font-family: 'Source Serif Pro', serif;
+}
+
+._100vh-section {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+._100vh-section img {
+    width: 350px;
+}
+
+._100vh-section h1 {
+    text-transform: uppercase;
+    font-size: 6.2rem;
+}
+
+span {
+    font-weight: 800;
+    color: rgb(236, 116, 136);
+}
