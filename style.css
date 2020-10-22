@@ -29,7 +29,7 @@ body {
 }
 
 ._100vh-section h1 {
-    text-transform: uppercase;
+    text-transform: lowercase;
     font-size: 6.2rem;
 }
 
