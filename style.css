@@ -36,4 +36,13 @@ body {
 span {
     font-weight: 800;
     color: rgb(236, 116, 136);
+    display: inline-block;
+}
+
+span.left {
+    margin-right: 1rem;
+}
+
+span.right {
+    margin-left: 1rem;
 }
